@@ -11,12 +11,12 @@ This application fetches music data from a public API and allows users to browse
 6. 📱 Clean and responsive UI
 
 🛠️ Tech Stack
-Language: Java / Kotlin (Update based on what you used)
-IDE: Android Studio
-API Integration: REST API (e.g., Retrofit / Volley)
-JSON Parsing
-MediaPlayer for audio streaming
-RecyclerView for listing songs
+1. Language: Java / Kotlin (Update based on what you used)
+2. IDE: Android Studio
+3. API Integration: REST API (e.g., Retrofit / Volley)
+4. JSON Parsing
+5. MediaPlayer for audio streaming
+6. RecyclerView for listing songs
 
 💡 Future Improvements
 1. 🎧 Background playback service
