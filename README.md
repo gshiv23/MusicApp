@@ -1,4 +1,5 @@
 🎵 Simple Music App (API Based)
+
 A lightweight and user-friendly Music Streaming App built using modern development practices.
 This application fetches music data from a public API and allows users to browse and play songs seamlessly.
 
